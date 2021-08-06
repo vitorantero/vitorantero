@@ -1,4 +1,4 @@
-Olá! Eu sou o Vitor Antero 
+Olá! Eu sou o Vitor Antero <br>
 Sou Desenvolvedor Front-End
 <div>
     <a href="https://github.com/vitorantero">
