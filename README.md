@@ -25,5 +25,3 @@ Sou Desenvolvedor Front-End
             target="_blank"></a>
 </div>
 
-<div> <img href="https://raw.githubusercontent.com/vitorantero/vitorantero/blob/output/snake.svg" alt="Snake animation" />
-</div>
