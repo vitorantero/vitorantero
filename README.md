@@ -24,3 +24,6 @@ Sou Desenvolvedor Front-End
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 </div>
+
+<div> <img href="https://raw.githubusercontent.com/vitorantero/vitorantero/blob/output/snake.svg" alt="Snake animation" />
+</div>
